@@ -1,4 +1,3 @@
 # humanoid_project_team1
-This repository is for humanoid development of our graduation project.
-
+This repository is for humanoid development of our graduation project. <br>
 Test Markdown file.
